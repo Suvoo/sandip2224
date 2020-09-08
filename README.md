@@ -3,4 +3,6 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sandip2224&show_icons=true&theme=dracula&count_private=true" />
 
-![](1.gif)
+<h2 align="center">It's still a work in progess. Hope you understand.😊😊</h2>
+<hr>
+
