@@ -1,3 +1,4 @@
+<h1 align="center">😁Hey there!!<img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="100px"></h1>
 <h1 align="center">✨Welcome to my space!!✨</h1>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=sandip2224&color=brightgreen&label=Bonjour!!!+You+are+visitor"/>
 
