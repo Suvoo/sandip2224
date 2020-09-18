@@ -4,10 +4,10 @@
 
 <h2 align="center">About Me</h2>
 <ul>
-  <li><p>🔭 I just cherish every moment with development, particularly web development.</p></li>
+  <li><p><strong> 🔭 I just cherish every moment with development, particularly web development.</strong></p></li>
   <li><p>🌱 I’m currently learning <strong>Javascript and Bootstrap</strong></p></li>
   <li><p>💬 Ask me about <strong>HTML, C++ and CSS</strong></p></li>
-  <li><p>📫 How to reach me: [@Sandipan0164](https://linkedin.com/in/sandipan0164) on LinkedIn</p></li>
+  <li><p><strong>📫 How to reach me: [@Sandipan0164](https://linkedin.com/in/sandipan0164) on LinkedIn.</strong></p></li>
   <li><p>⚡ Fun fact: I'm <strong>addicted</strong> to movies and coffee🎉</p></li>
 </ul>
 
