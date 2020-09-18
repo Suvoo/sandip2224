@@ -12,7 +12,9 @@
 </ul>
 <hr>
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandip2224&layout=compact"/></p>
 <h2 align="center">Languages and Tools</h2>
+  
 <p align="center">
   <code><img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
   <code><img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -24,8 +26,11 @@
   <code><img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 </p>
 <hr>
+<details>
+  <summary>🎃 Click here</summary>
+  <p><strong>The force is within you. You just got to work on it🎆🎆</p>
+</details>
 
 <h2 align="center">Profile Stats🎡</h2>
-![Sandipan's github stats](https://github-readme-stats.vercel.app/api?username=sandip2224)
-  
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sandip2224&show_icons=true&theme=radical&line_height=35&count_private=true"/></p>
 
