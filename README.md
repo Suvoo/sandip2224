@@ -4,7 +4,7 @@
 
 <h2 align="center">About Me</h2>
 <ul>
-  <li><p><strong> 🔭 I just cherish every moment with development, particularly web development.</strong></p></li>
+  <li><p><strong> 🔭 I love to spend time with dev community.</strong></p></li>
   <li><p>🌱 I’m currently learning <strong>Javascript and Bootstrap</strong></p></li>
   <li><p>💬 Ask me about <strong>HTML, C++ and CSS</strong></p></li>
   <li><p><strong>📫 How to reach me: <a href="https://linkedin.com/in/sandipan0164" target="_blank">sandipan0164</a> on LinkedIn.</strong></p></li>
@@ -28,7 +28,7 @@
 <hr>
 <details>
   <summary>🎃 Click here</summary>
-  <p><strong>The force is within you. You just got to work on it🎆🎆</p>
+  <h3>Secret Recipe #1: ✨The force is within you. You just got to work on it✨</h3>
 </details>
 
 <h2 align="center">Profile Stats🎡</h2>
