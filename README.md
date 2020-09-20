@@ -2,17 +2,6 @@
 <h1 align="center">✨Welcome to my space!!✨</h1>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=sandip2224&color=brightgreen&label=Bonjour!!!+You+are+visitor"/>
 
-<h2 align="center">Connect with me</h2>
-<p align="center">
-<a href="https://linkedin.com/in/sandipan0164" target="_blank">
-  <img src="https://img.shields.io/badge/Connect_On_LinkedIn-Sandipan_Das-blue.svg" href=""/>
-</a>
-<a href="https://twitter.com/sandipan_2224" target="_blank">
-  <img src="https://img.shields.io/twitter/follow/sandipan_2224?color=Blue&label=Follow%20me%20on%20Twitter&style=square" href=""/>
-</a>
-<p align="center">
-
-
 <h2 align="center">About Me</h2>
 <ul>
   <li><p><strong> 🔭 I love to spend time with dev community.</strong></p></li>
@@ -36,6 +25,17 @@
   <code><img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 </p>
 <hr>
+
+<h2 align="center">Connect with me</h2>
+<p align="center">
+<a href="https://linkedin.com/in/sandipan0164" target="_blank">
+  <img src="https://img.shields.io/badge/Connect_On_LinkedIn-Sandipan_Das-blue.svg" href=""/>
+</a>
+<a href="https://twitter.com/sandipan_2224" target="_blank">
+  <img src="https://img.shields.io/twitter/follow/sandipan_2224?color=Blue&label=Follow%20me%20on%20Twitter&style=square" href=""/>
+</a>
+</p>
+
 <details>
   <summary>😘 Quick tip-1</summary>
   <h4>Secret Recipe #1: ✨You don't need to climb the entire staircase. Just take that first step.✨</h4>
