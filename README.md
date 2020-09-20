@@ -3,15 +3,22 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=sandip2224&color=brightgreen&label=Bonjour!!!+You+are+visitor"/>
 
 <h2 align="center">Connect with me</h2>
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_On_LinkedIn-Sandipan_Das-blue.svg)](https://www.linkedin.com/in/sandipan0164)
+<p align="center">
+<a href="https://linkedin.com/in/sandipan0164" target="_blank">
+  <img src="https://img.shields.io/badge/Connect_On_LinkedIn-Sandipan_Das-blue.svg" href=""/>
+</a>
+<a href="https://twitter.com/sandipan_2224" target="_blank">
+  <img src="https://img.shields.io/twitter/follow/sandipan_2224?color=Blue&label=Follow%20me%20on%20Twitter&style=square" href=""/>
+</a>
+<p align="center">
+
 
 <h2 align="center">About Me</h2>
 <ul>
   <li><p><strong> 🔭 I love to spend time with dev community.</strong></p></li>
   <li><p>🌱 I’m currently learning <strong>Javascript and Bootstrap</strong></p></li>
   <li><p>💬 Ask me about <strong>HTML, C++ and CSS</strong></p></li>
-  <li><p><strong>📫 How to reach me: <a  target="_blank" href="https://linkedin.com/in/sandipan0164">sandipan0164</a> on LinkedIn.</strong></p></li>
-  <li><p>⚡ Fun fact: I'm <strong>addicted</strong> to movies and coffee🎉</p></li>
+  <li><p>⚡ Fun fact: I'm <strong>addicted</strong> to <strong>F.R.I.E.N.D.S❤</strong> and <strong>Arabica☕</p></li>
 </ul>
 <hr>
 
