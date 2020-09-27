@@ -11,8 +11,8 @@
 <hr>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandip2224&show_icons=true&theme=radical&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandip2224&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sandip2224&show_icons=true&line_height=30&theme=radical&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandip2224"/>
 </p>
 
 <h2 align="center">Languages and Tools</h2>
