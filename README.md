@@ -30,9 +30,6 @@
 <a href="https://linkedin.com/in/sandipan0164" target="_blank">
   <img src="https://img.shields.io/badge/Connect_On_LinkedIn-Sandipan_Das-blue.svg"/>
 </a>
-<a href="https://twitter.com/sandipan_2224" target="_blank">
-  <img src="https://img.shields.io/twitter/follow/sandipan_2224?color=Blue&label=Follow%20me%20on%20Twitter&style=square"/>
-</a>
 </p>
 
 <details>
