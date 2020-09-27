@@ -10,7 +10,11 @@
 </ul>
 <hr>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandip2224&layout=compact"/></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sandip2224&show_icons=true&theme=radical&line_height=35&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandip2224&layout=compact"/>
+</p>
+
 <h2 align="center">Languages and Tools</h2>
   
 <p align="center">
@@ -38,5 +42,4 @@
 </details>
 
 <h2 align="center">Profile Stats🎡</h2>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sandip2224&show_icons=true&theme=radical&line_height=35&count_private=true"/></p>
 
