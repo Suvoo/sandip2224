@@ -28,18 +28,21 @@
   <code><img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 </p>
 <hr>
-
-<h2 align="center">Connect with me</h2>
-<p align="center">
-<a href="https://linkedin.com/in/sandipan0164" target="_blank">
-  <img src="https://img.shields.io/badge/Connect_On_LinkedIn-Sandipan_Das-blue.svg"/>
-</a>
-</p>
-
 <details>
   <summary>😘 Quick tip-1</summary>
   <h4>Secret Recipe #1: ✨You don't need to climb the entire staircase. Just take that first step.✨</h4>
 </details>
 
-<h2 align="center">Profile Stats🎡</h2>
+<h2 align="center">Connect with me</h2>
+<p align="center">
 
+<a href="https://linkedin.com/in/sandipan0164" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height=35/>
+</a>
+<a href="https://linkedin.com/in/sandipan0164" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height=35/>
+</a>
+<a href="https://linkedin.com/in/sandipan0164" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" height=35/>
+</a>
+</p>
