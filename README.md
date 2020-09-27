@@ -11,7 +11,7 @@
 <hr>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandip2224&show_icons=true&line_height=50&theme=radical&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sandip2224&show_icons=true&line_height=40&theme=radical&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandip2224"/>
 </p>
 
