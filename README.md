@@ -11,7 +11,7 @@
 <hr>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandip2224&show_icons=true&line_height=40&bg_color=20,434343,000000&title_color=ff1493&text_color=fff&count_private=true"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=sandip2224&show_icons=true&line_height=40&bg_color=20,434343,000000&title_color=ff1493&text_color=fff&count_private=true"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandip2224&bg_color=20,434343,000000&title_color=ff1493&text_color=fff"/>
 </p>
 
