@@ -39,10 +39,10 @@
 <a href="https://linkedin.com/in/sandipan0164" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height=35/>
 </a>
-<a href="https://linkedin.com/in/sandipan0164" target="_blank">
+<a href="https://www.instagram.com/sandipan_2224/" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height=35/>
 </a>
-<a href="https://linkedin.com/in/sandipan0164" target="_blank">
+<a href="https://www.youtube.com/channel/UCcAmlS6ycXWx53G_aIYjgNg/featured?view_as=subscriber" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" height=35/>
 </a>
 </p>
