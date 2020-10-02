@@ -4,8 +4,8 @@
 
 <h2 align="center">About Me</h2>
 <ul>
-  <li><p>🌱 I’m currently learning <strong>Javascript and Bootstrap</strong></p></li>
-  <li><p>💬 Ask me about <strong>HTML, CSS and Cpp</strong></p></li>
+  <li><p>🌱 I’m currently learning <strong>Bootstrap</strong> and <strong>Nodejs</strong></p></li>
+  <li><p>💬 Ask me about <strong>JavaScript, CSS and Cpp</strong></p></li>
   <li><p>⚡ Fun fact: I'm <strong>addicted</strong> to <strong>F.R.I.E.N.D.S❤</strong> and <strong>☕</p></li>
 </ul>
 <hr>
