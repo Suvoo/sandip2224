@@ -1,6 +1,7 @@
 <h1 align="center">Hey there. I'm Sandipan<img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="100px"></h1>
 <h1 align="center">✨Welcome to my space!!✨</h1>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=sandip2224&color=brightgreen&label=Bonjour!!!+ You are stalker number: "/>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=sandip2224&color=brightgreen&label=BONJOUR!!!+You+are+visitor: "/>
+<hr>
 
 <h2 align="center">About Me</h2>
 <ul>
@@ -8,6 +9,21 @@
   <li><p>💬 Ask me about <strong>JavaScript, CSS and Cpp</strong></p></li>
   <li><p>⚡ Fun fact: I'm <strong>addicted</strong> to <strong>F.R.I.E.N.D.S❤</strong> and <strong>☕</p></li>
 </ul>
+<hr>
+
+<h2 align="center">Languages and Tools</h2>
+<p align="center">
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 <hr>
 <details>
   <summary>😘 Quick tip-1</summary>
@@ -40,15 +56,18 @@
 </details>
 
 <h2 align="center">Connect with me</h2>
-<p align="center">
 
-<a href="https://linkedin.com/in/sandipan0164" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height=35/>
+<p align="center">
+<a href="https://linkedin.com/in/sandipan0164">
+  <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/sandipan_2224/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height=35/>
+<a href="https://www.instagram.com/sandipan_2224/">
+  <img src="https://img.shields.io/badge/sandipan_2224%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
-<a href="https://www.youtube.com/channel/UCcAmlS6ycXWx53G_aIYjgNg/featured?view_as=subscriber" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" height=35/>
+<a href="https://twitter.com/sandipan_2224">
+  <img src="https://img.shields.io/badge/sandipan_2224%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>  
+</a>
+<a href="https://discord.gg/JqPtjA">
+  <img src="https://img.shields.io/badge/%3CTech Ninjas%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 </p>
