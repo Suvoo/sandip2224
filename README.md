@@ -48,10 +48,10 @@
   <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/sandipan_2224/">
-  <img src="https://img.shields.io/badge/sandipan_2224%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/sandipan2224%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
 <a href="https://twitter.com/sandipan_2224">
-  <img src="https://img.shields.io/badge/sandipan_2224%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/sandipan2224%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>  
 </a>
 <a href="https://discord.gg/JqPtjA">
   <img src="https://img.shields.io/badge/%3CTech Ninjas%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
