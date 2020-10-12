@@ -57,3 +57,7 @@
   <img src="https://img.shields.io/badge/%3CTech Ninjas%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 </p>
+
+<h2 align="center">Joke of the day</h2>
+<p align="center"><img src="https://readme-jokes.vercel.app/api"/></p>
+<!-- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
