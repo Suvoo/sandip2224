@@ -41,6 +41,11 @@
   <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✨Do something today that your future self will thank you for.✨</h4>
 </details>
 
+<h2 align="center">🏆 My GitHub Trophies</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sandip2224&theme=dracula" width="780" />
+</p>
+
 <h2 align="center">Connect with me</h2>
 
 <p align="center">
