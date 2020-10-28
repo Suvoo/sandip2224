@@ -1,6 +1,6 @@
 # Hello guys!!! 🖖🖖 
 
-### I'm Sandipan Das, currently a sophomore pursuing computer science at SRM University. I'm an aspiring software engineer and web developer with a passion for learning new frameworks that prevail in the current market scenario.
+### *I'm Sandipan Das, currently a sophomore pursuing computer science at SRM University. I'm an aspiring software engineer and web developer with a passion for learning new frameworks that prevail in the current market scenario.*
 <p align="center"><img src="https://komarev.com/ghpvc/?username=sandip2224&color=brightgreen&label=BONJOUR!!!+You+are+visitor: "/>
 
 ## About Me  
