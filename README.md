@@ -3,13 +3,13 @@
 ### *I'm Sandipan Das, currently a sophomore pursuing computer science at SRM University. I'm an aspiring software engineer and web developer with a passion for learning new frameworks that prevail in the current market scenario.*
 <p align="center"><img src="https://komarev.com/ghpvc/?username=sandip2224&color=brightgreen&label=BONJOUR!!!+You+are+visitor: "/>
 
-## About Me  
+## About Me 👨‍🎓
 
 - [x] 👨‍🎓 I’m currently learning **Bootstrap** and **Node.js**
 - [x] 💬 Ask me about **CSS**, **JavaScript** and **Bootstrap**
 - [x] ⚡ Fun fact: I'm addicted to **coffee** and **code** and prefer to mix them from time to time
 
-## Languages and Tools  
+## Languages and Tools 🎨
 
 <p align="center">
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -24,8 +24,12 @@
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
+## You can find my portfolio website here ❄
+
+[Personal Portfolio Webpage](https://sandipan-2224.web.app/)
+
 <details>
-  <summary>😘 Quick tip-1</summary>
+  <summary>😘<strong> Quick tip-1</strong></summary>
   <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✨You don't need to climb the entire staircase. Just take that first step.✨</h4>
 </details>
 
@@ -36,7 +40,7 @@
 
 <hr>
 <details>
-  <summary>😘 Quick tip-2</summary>
+  <summary>😘<strong> Quick tip-2</strong></summary>
   <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✨Do something today that your future self will thank you for.✨</h4>
 </details>
 
