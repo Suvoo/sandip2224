@@ -26,7 +26,7 @@
 
 ## You can find my portfolio website here ❄
 
-[Personal Portfolio Webpage](https://sandipan-2224.web.app/)
+[https://sandipan-2224.web.app/](https://sandipan-2224.web.app/)
 
 <details>
   <summary>😘<strong> Quick tip-1</strong></summary>
@@ -44,14 +44,14 @@
   <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✨Do something today that your future self will thank you for.✨</h4>
 </details>
 
-## 🏆 My GitHub Trophies  
+## My GitHub Trophies 🏆
 
 <img src="https://github-profile-trophy.vercel.app/?username=sandip2224&theme=dracula" width="780" />
 
-## Connect with me  
+## Connect with me ❤
 
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandipan0164) | [![Instagram Badge](https://img.shields.io/badge/sandipan2224%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sandipan_2224/) | [![Twitter Badge](https://img.shields.io/badge/sandipan2224%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/sandipan_2224)  
 
-## Joke of the day  
+## Joke of the day 😁
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
