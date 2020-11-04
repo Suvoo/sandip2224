@@ -3,11 +3,14 @@
 ### *I'm Sandipan Das, currently a sophomore pursuing computer science at SRM University. I'm an aspiring software engineer and web developer with a passion for learning new frameworks that prevail in the current market scenario.*
 <p align="center"><img src="https://komarev.com/ghpvc/?username=sandip2224&color=brightgreen&label=BONJOUR!!!+You+are+visitor: "/>
 
+
 ## About Me 👨‍🎓
 
-- [x] 👨‍🎓 I’m currently learning **Bootstrap** and **Node.js**
+- [x] 👨‍🎓 I’m currently learning **Node.js** and **EJS Templates**
 - [x] 💬 Ask me about **CSS**, **JavaScript** and **Bootstrap**
+- [x] 📩 How to reach me: [sandipan2224@gmail.com](sandipan2224@gmail.com)
 - [x] ⚡ Fun fact: I'm addicted to **coffee** and **code** and prefer to mix them from time to time
+
 
 ## Languages and Tools 🎨
 
@@ -24,6 +27,7 @@
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
+
 ## You can find my portfolio website here ❄
 
 [https://sandipan-2224.web.app/](https://sandipan-2224.web.app/)
@@ -32,6 +36,7 @@
   <summary>😘<strong> Quick tip-1</strong></summary>
   <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✨You don't need to climb the entire staircase. Just take that first step.✨</h4>
 </details>
+
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=sandip2224&show_icons=true&line_height=40&bg_color=20,434343,000000&title_color=ff1493&text_color=fff&count_private=true"/>
@@ -44,13 +49,16 @@
   <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✨Do something today that your future self will thank you for.✨</h4>
 </details>
 
+
 ## My GitHub Trophies 🏆
 
 <img src="https://github-profile-trophy.vercel.app/?username=sandip2224&theme=dracula" width="780" />
 
+
 ## Connect with me ❤
 
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandipan0164) | [![Instagram Badge](https://img.shields.io/badge/sandipan2224%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sandipan_2224/) | [![Twitter Badge](https://img.shields.io/badge/sandipan2224%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/sandipan_2224)  
+
 
 ## Joke of the day 😁
 
