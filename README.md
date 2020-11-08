@@ -35,22 +35,18 @@
 
 [https://sandipan-2224.web.app/](https://sandipan-2224.web.app/)
 
-<details>
+<!--<details>
   <summary>😘<strong> Quick tip-1</strong></summary>
   <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✨You don't need to climb the entire staircase. Just take that first step.✨</h4>
 </details>
-
-
-<!-- <p align="center">
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=sandip2224&show_icons=true&line_height=40&bg_color=20,434343,000000&title_color=ff1493&text_color=fff&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandip2224&bg_color=20,434343,000000&title_color=ff1493&text_color=fff"/>
-</p> -->
-
-<hr>
+</p>
 <details>
   <summary>😘<strong> Quick tip-2</strong></summary>
   <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✨Do something today that your future self will thank you for.✨</h4>
-</details>
+</details> -->
 
 
 ## My GitHub Trophies 🏆
