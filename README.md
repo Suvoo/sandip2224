@@ -1,6 +1,6 @@
-# Hello guys!!! 🖖🖖 
+## Hello guys!!! 🖖 
 
-### *I'm Sandipan Das, currently a sophomore pursuing computer science at SRM University. I'm an aspiring software engineer and web developer with a passion for learning new frameworks that prevail in the current market scenario.*
+### I'm Sandipan Das, currently a sophomore pursuing computer science at SRM University. I'm an aspiring software engineer and web developer with a passion for learning new frameworks that prevail in the current market scenario.
 <p align="center"><img src="https://komarev.com/ghpvc/?username=sandip2224&color=brightgreen&label=BONJOUR!!!+You+are+visitor: "/>
 
 
@@ -35,24 +35,12 @@
 
 [https://sandipan-2224.web.app/](https://sandipan-2224.web.app/)
 
-<!--<details>
-  <summary>😘<strong> Quick tip-1</strong></summary>
-  <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✨You don't need to climb the entire staircase. Just take that first step.✨</h4>
-</details>
+## My GitHub Stats🧮
+
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=sandip2224&show_icons=true&line_height=40&bg_color=20,434343,000000&title_color=ff1493&text_color=fff&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandip2224&bg_color=20,434343,000000&title_color=ff1493&text_color=fff"/>
 </p>
-<details>
-  <summary>😘<strong> Quick tip-2</strong></summary>
-  <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✨Do something today that your future self will thank you for.✨</h4>
-</details> -->
-
-
-## My GitHub Trophies 🏆
-
-<img src="https://github-profile-trophy.vercel.app/?username=sandip2224&theme=dracula" width="780" />
-
 
 ## Connect with me ❤
 
