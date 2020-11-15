@@ -24,6 +24,7 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=sandip2224&color=brightgreen&label=BONJOUR!!!+You+are+visitor: "/>
 </p>
+<br/>
 
 Hi there, I'm [Sandipan Das](https://sandipan-2224.web.app/), an aspiring Web Developer 🚀 from West Bengal, India. Currently, I'm a Contributor at ✅ [@AOS2020](https://aos.sanscript.tech/), Web Developer at [@TheProjectTeam](https://www.theprojectteam.in/) and a Former Intern at [@TheSparksFoundation](https://www.thesparksfoundationsingapore.org/). Besides coding almost on a daily basis, I also enjoy stealing memes and scourging youtube.
   
@@ -55,13 +56,9 @@ Hi there, I'm [Sandipan Das](https://sandipan-2224.web.app/), an aspiring Web De
 
 [https://sandipan-2224.web.app/](https://sandipan-2224.web.app/)
 
-## My GitHub Stats🧮
+**My GitHub Stats** 🧮
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=sandip2224&show_icons=true&line_height=40&bg_color=20,434343,000000&title_color=ff1493&text_color=fff&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandip2224&bg_color=20,434343,000000&title_color=ff1493&text_color=fff"/>
 </p>
-
-## Connect with me ❤
-
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandipan0164) | [![Instagram Badge](https://img.shields.io/badge/sandipan2224%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sandipan_2224/) | [![Twitter Badge](https://img.shields.io/badge/sandipan2224%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/sandipan_2224)  
