@@ -25,15 +25,15 @@
   <img src="https://komarev.com/ghpvc/?username=sandip2224&color=brightgreen&label=BONJOUR!!!+You+are+visitor: "/>
 </p>
 
-Hi there, I'm [Sandipan Das](https://sandipan-2224.web.app/), a Front End Web Developer 🚀 from West Bengal, India. Currently, I'm an open source contributor at ✅ [@AOS2020](https://aos.sanscript.tech/) and Web Developer at [@TheProjectTeam](https://www.theprojectteam.in/) and a Former  Web Development Intern at [@TheSparksFoundation](https://www.thesparksfoundationsingapore.org/). Besides coding almost on a daily basis, I also enjoy stealing memes and scourging youtube.
-
+Hi there, I'm [Sandipan Das](https://sandipan-2224.web.app/), an aspiring Web Developer 🚀 from West Bengal, India. Currently, I'm a Contributor at ✅ [@AOS2020](https://aos.sanscript.tech/), Web Developer at [@TheProjectTeam](https://www.theprojectteam.in/) and a Former Intern at [@TheSparksFoundation](https://www.thesparksfoundationsingapore.org/). Besides coding almost on a daily basis, I also enjoy stealing memes and scourging youtube.
+  
 ## About Me 👨‍🎓
 
-- [x] 👨‍🎓 I’m currently learning **Node.js** and **EJS Templates**
-- [x] 💬 Ask me about **CSS**, **JavaScript** and **Bootstrap**
-- [x] 📩 How to reach me: [sandipan2224@gmail.com](sandipan2224@gmail.com)
-- [x] ⚡ Fun fact: I'm addicted to **coffee** and **code** and prefer to mix them from time to time
-
+- 👨🏽‍💻 I’m currently working on my `personal blogging site`:wink:  
+- 🌱 I’m currently learning `Node.js` and `MongoDB`  
+- 💬 Ask me about `JavaScript`, `Bootstrap` and `Node.js`
+- 📫 How to reach me: [@sandipan0164](https://linkedin.com/sandipan0164/)
+- 📝 [My Resume](https://resume.io/r/EWFouhDzC)
 
 ## Languages and Tools 🎨
 
