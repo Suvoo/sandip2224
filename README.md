@@ -27,7 +27,7 @@
 
 Hi there, I'm [Sandipan Das](https://sandipan-2224.web.app/), an aspiring Web Developer 🚀 from West Bengal, India. Currently, I'm a Contributor at ✅ [@AOS2020](https://aos.sanscript.tech/), Web Developer at [@TheProjectTeam](https://www.theprojectteam.in/) and a Former Intern at [@TheSparksFoundation](https://www.thesparksfoundationsingapore.org/). Besides coding almost on a daily basis, I also enjoy stealing memes and scourging youtube.
   
-## About Me 👨‍🎓
+**About Me** 👨‍🎓
 
 - 👨🏽‍💻 I’m currently working on my `personal blogging site`:wink:  
 - 🌱 I’m currently learning `Node.js` and `MongoDB`  
@@ -35,7 +35,7 @@ Hi there, I'm [Sandipan Das](https://sandipan-2224.web.app/), an aspiring Web De
 - 📫 How to reach me: [@sandipan0164](https://linkedin.com/sandipan0164/)
 - 📝 [My Resume](https://resume.io/r/EWFouhDzC)
 
-## Languages and Tools 🎨
+**Languages and Tools** 🎨  
 
 <code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -51,7 +51,7 @@ Hi there, I'm [Sandipan Das](https://sandipan-2224.web.app/), an aspiring Web De
 <code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-## You can find my portfolio website here ❄
+**You can find my portfolio website here** :heart:
 
 [https://sandipan-2224.web.app/](https://sandipan-2224.web.app/)
 
