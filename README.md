@@ -1,4 +1,4 @@
-## Hey there!!
+## Hey there. Welcome!!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p>
   <a href="https://discord.gg/QhX72qyQwj">
@@ -22,17 +22,18 @@
   <a href="https://codeforces.com/profile/sandipan_2224">
     <img align="left" alt="Sandipan's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=sandip2224&color=brightgreen&label=BONJOUR!!!+You+are+visitor: "/>
+  <img src="https://komarev.com/ghpvc/?username=sandip2224&color=brightgreen&label=Visitors: "/>
 </p>
 <br/>
 
-Hi there, I'm [Sandipan Das](https://sandipan-2224.web.app/), an aspiring Web Developer 🚀 from West Bengal, India. Currently, I'm a Contributor at ✅ [@AOS2020](https://aos.sanscript.tech/), Web Developer at [@TheProjectTeam](https://www.theprojectteam.in/) and a Former Intern at [@TheSparksFoundation](https://www.thesparksfoundationsingapore.org/). Besides coding almost on a daily basis, I also enjoy stealing memes and scourging youtube.
-  
+Hi there, I'm [Sandipan Das](https://sandipan-2224.web.app/), an aspiring Web Developer 🚀 from West Bengal, India. Currently, I'm a Contributor at ✅ [@AOS2020](https://aos.sanscript.tech/), Web Developer at [@TheProjectTeam](https://www.theprojectteam.in/) and a Former Intern at [@TheSparksFoundation](https://www.thesparksfoundationsingapore.org/). Besides coding almost on a daily basis, I also enjoy stealing memes and scourging youtube.  
+<br/>
+
 **About Me** 👨‍🎓
 
-- 👨🏽‍💻 I’m currently working on my `personal blogging site`:wink:  
-- 🌱 I’m currently learning `Node.js` and `MongoDB`  
-- 💬 Ask me about `JavaScript`, `Bootstrap` and `Node.js`
+- 👨🏽‍💻 I’m currently working on my personal blogging site:wink:  
+- 🌱 I’m currently learning Node.js and MongoDB  
+- 💬 Ask me about JavaScript, Bootstrap and Node.js
 - 📫 How to reach me: [@sandipan0164](https://linkedin.com/sandipan0164/)
 - 📝 [My Resume](https://resume.io/r/EWFouhDzC)
 
