@@ -1,8 +1,31 @@
-## Hello guys!!! 🖖 
+## Hey there!!
 
-### I'm Sandipan Das, currently a sophomore pursuing computer science at SRM University. I'm an aspiring software engineer and web developer with a passion for learning new frameworks that prevail in the current market scenario.
-<p align="center"><img src="https://komarev.com/ghpvc/?username=sandip2224&color=brightgreen&label=BONJOUR!!!+You+are+visitor: "/>
+<p>
+  <a href="https://discord.gg/QhX72qyQwj">
+    <img align="left" alt="Sandipan's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  </a>
+  <a href="https://twitter.com/sandipan_2224">
+    <img align="left" alt="Sandipan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/sandipan0164/">
+    <img align="left" alt="Sandipan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://www.instagram.com/abhisheknaiidu/">
+    <img align="left" alt="Sandipan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+  <a href="https://www.github.com/sandip2224/">
+    <img align="left" alt="Sandipan's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  </a>
+  <a href="https://www.codechef.com/users/sandipan_2224">
+    <img align="left" alt="Sandipan's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+  </a>
+  <a href="https://codeforces.com/profile/sandipan_2224">
+    <img align="left" alt="Sandipan's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=sandip2224&color=brightgreen&label=BONJOUR!!!+You+are+visitor: "/>
+</p>
 
+Hi there, I'm [Sandipan Das](https://sandipan-2224.web.app/), a Front End Web Developer 🚀 from West Bengal, India. Currently, I'm an open source contributor at ✅ [@AOS2020](https://aos.sanscript.tech/) and Web Developer at [@TheProjectTeam](https://www.theprojectteam.in/) and a Former  Web Development Intern at [@TheSparksFoundation](https://www.thesparksfoundationsingapore.org/). Besides coding almost on a daily basis, I also enjoy stealing memes and scourging youtube.
 
 ## About Me 👨‍🎓
 
