@@ -26,8 +26,7 @@
 </p>
 <br/>
 
-Hi there, I'm [Sandipan Das](https://sandipan-2224.web.app/), an aspiring Web Developer 🚀 from West Bengal, India. Currently, I'm a Contributor at ✅ [@AOS2020](https://aos.sanscript.tech/), Web Developer at [@The-Project-Team](https://www.theprojectteam.in/) and a Former Intern at [@SparksFoundation](https://www.thesparksfoundationsingapore.org/). Besides coding almost on a daily basis, I also enjoy stealing memes and scourging youtube.  
-<br/>
+Hi there, I'm [Sandipan Das](https://sandipan-2224.web.app/), an aspiring Web Developer 🚀 from West Bengal, India. Currently, I'm a Contributor at ✅ [@AOS2020](https://aos.sanscript.tech/), Web Developer at [@The-Project-Team](https://www.theprojectteam.in/) and a Former Intern at [@SparksFoundation](https://www.thesparksfoundationsingapore.org/). Besides coding almost on a daily basis, I also enjoy stealing memes😂 and scourging youtube.🔥
 
 **About Me** 👨‍🎓
 
@@ -51,7 +50,6 @@ Hi there, I'm [Sandipan Das](https://sandipan-2224.web.app/), an aspiring Web De
 <code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
 
 **You can find my portfolio website here** :heart:
 
