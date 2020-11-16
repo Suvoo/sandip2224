@@ -25,10 +25,11 @@
   <img src="https://komarev.com/ghpvc/?username=sandip2224&color=brightgreen&label=Visitors: "/>
 </p>
 <br/>
+<img src="https://media.giphy.com/media/X74GovIqGMZYxXblCL/giphy.gif" height=450 width=450 align="right"/>  
+
 
 Hi, I'm [Sandipan Das](https://sandipan-2224.web.app/), an aspiring **Web Developer** 🚀 from West Bengal, India. Currently, I'm a Project Contributor  🙍🏽‍♂️ [@AOS2020](https://aos.sanscript.tech/), Web Developer 🙍🏽‍♂️[@The-Project-Team](https://www.theprojectteam.in/) and a Former WebDev Intern at [@SparksFoundation](https://www.thesparksfoundationsingapore.org/). Besides coding almost on a daily basis, I also enjoy stealing memes😂 and scourging youtube.🔥
 
-<img src="https://media.giphy.com/media/X74GovIqGMZYxXblCL/giphy.gif" height=450 width=450 align="right"/>  
 
 **About Me** 👨‍🎓 
 
