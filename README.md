@@ -28,7 +28,10 @@
 
 Hi, I'm [Sandipan Das](https://sandipan-2224.web.app/), an aspiring **Web Developer** 🚀 from West Bengal, India. Currently, I'm a Project Contributor  🙍🏽‍♂️ [@AOS2020](https://aos.sanscript.tech/), Web Developer 🙍🏽‍♂️[@The-Project-Team](https://www.theprojectteam.in/) and a Former WebDev Intern at [@SparksFoundation](https://www.thesparksfoundationsingapore.org/). Besides coding almost on a daily basis, I also enjoy stealing memes😂 and scourging youtube.🔥
 
-**About Me** 👨‍🎓
+<img src="https://media.giphy.com/media/12W5Sg2koWYnwA/giphy.gif" align="right"/>
+**About Me** 👨‍🎓 
+
+<iframe src="https://giphy.com/embed/12W5Sg2koWYnwA" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/future-careers-uniblog-12W5Sg2koWYnwA">via GIPHY</a></p>
 
 - 👨🏽‍💻 I’m currently working on my personal blogging site:wink:  
 - 🌱 I’m currently learning Node.js and MongoDB  
