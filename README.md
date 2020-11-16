@@ -31,8 +31,6 @@ Hi, I'm [Sandipan Das](https://sandipan-2224.web.app/), an aspiring **Web Develo
 <img src="https://media.giphy.com/media/12W5Sg2koWYnwA/giphy.gif" align="right"/>
 **About Me** 👨‍🎓 
 
-<iframe src="https://giphy.com/embed/12W5Sg2koWYnwA" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/future-careers-uniblog-12W5Sg2koWYnwA">via GIPHY</a></p>
-
 - 👨🏽‍💻 I’m currently working on my personal blogging site:wink:  
 - 🌱 I’m currently learning Node.js and MongoDB  
 - 💬 Ask me about JavaScript, Bootstrap and Node.js
