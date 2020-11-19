@@ -22,7 +22,7 @@
   <a href="https://codeforces.com/profile/sandipan_2224">
     <img align="left" alt="Sandipan's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=sandip2224&color=blue&label=Visitors: "/>
+  <img src="https://komarev.com/ghpvc/?username=sandip2224&color=blue&label=Visitors "/>
 </p>
 <br/>
 
