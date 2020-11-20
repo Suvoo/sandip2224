@@ -33,7 +33,7 @@ Hi, I'm [Sandipan Das](https://sandipan-2224.web.app/), an aspiring **Web Develo
 
 **About Me** 👨‍🎓 
 
-- 👨🏽‍💻 I’m currently working on my personal blogging site:wink:  
+- 👨🏽‍💻 I’m currently working on my personal blogging site:wink:
 - 🌱 I’m currently learning Node.js and MongoDB  
 - 💬 Ask me about JavaScript, Bootstrap and Node.js
 - 📫 How to reach me: [@sandipan0164](https://linkedin.com/sandipan0164/)
