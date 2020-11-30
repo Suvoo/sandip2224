@@ -60,12 +60,5 @@ Hi, I'm [Sandipan Das](https://sandipan-2224.web.app/), an aspiring **Web Develo
 
 <br/>
 
-<details>
-<summary><strong>My GitHub Stats🧮</strong></summary>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sandip2224&show_icons=true&line_height=35&bg_color=20,434343,000000&title_color=ff1493&text_color=fff&count_private=true"/>
-    <img height=255 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandip2224&bg_color=20,434343,000000&title_color=ff1493&text_color=fff"/>
-  </p>
-</details>
-
-<h3 align="center">Show some ❤️ by starring some of my repositories!!!</h3>
+| <img src="https://github-readme-stats.vercel.app/api?username=sandip2224&show_icons=true&count_private=true"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandip2224"/> |
+|:------------:|:------------:|
