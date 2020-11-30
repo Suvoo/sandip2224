@@ -63,4 +63,4 @@ Hi, I'm [Sandipan Das](https://sandipan-2224.web.app/), an aspiring **Web Develo
 | <img src="https://github-readme-stats.vercel.app/api?username=sandip2224&show_icons=true&count_private=true"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandip2224"/> |
 |:------------:|:------------:|
 
-<p align="center"><img height="28" src="img/border.jpg"/></p>
+<p align="center"><img height="24" src="img/border.jpg"/></p>
