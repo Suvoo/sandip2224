@@ -79,9 +79,6 @@ Hi, I'm [Sandipan Das](https://sandipan-2224.web.app/), an aspiring **Web Develo
 |:------------:|:------------:|
 
 
-
-| [![Stargazers repo roster for @sandip2224/Best-Web-Development-Resources](https://reporoster.com/stars/sandip2224/Best-Web-Development-Resources)](https://github.com/sandip2224/My-README.md-Template/stargazers) | [![Forkers repo roster for @sandip2224/Best-Web-Development-Resources](https://reporoster.com/forks/sandip2224/Best-Web-Development-Resources)](https://github.com/sandip2224/Best-Web-Development-Resources/network/members)|
-|:--------:|:--------:|
-|**&#8593; Stargazers**|**&#8593; Forkers**|
+[![Stargazers repo roster for @sandip2224/sandip2224](https://reporoster.com/stars/sandip2224/sandip2224)](https://github.com/sandip2224/sandip2224/stargazers)
 
 <p align="center"><img height="24" src="img/border.jpg"/></p>
