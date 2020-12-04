@@ -1,14 +1,14 @@
 ## < Hey there. Welcome!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> />
 
 <p>
-  <a href="https://discord.gg/QhX72qyQwj">
-    <img align="left" alt="Sandipan's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  <a href="https://www.linkedin.com/in/sandipan0164/">
+    <img align="left" alt="Sandipan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <a href="https://twitter.com/sandipan_2224">
     <img align="left" alt="Sandipan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
-  <a href="https://www.linkedin.com/in/sandipan0164/">
-    <img align="left" alt="Sandipan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <a href="https://sandip2224.medium.com/">
+    <img align="left" alt="Sandipan's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
   </a>
   <a href="https://www.instagram.com/sandipan_2224/">
     <img align="left" alt="Sandipan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
