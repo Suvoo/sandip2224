@@ -14,4 +14,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: sandip2224/sandip2224@master
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ MY_SECRET.GITHUB_TOKEN }}
