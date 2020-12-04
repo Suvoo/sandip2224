@@ -12,6 +12,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: sandip2224/github-activity-readme@master
+      - uses: sandip2224/sandip2224@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
