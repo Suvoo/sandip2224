@@ -61,7 +61,9 @@ Hi, I'm [Sandipan Das](https://sandipan-2224.web.app/), an aspiring **Web Develo
 
 [https://sandipan-2224.web.app/](https://sandipan-2224.web.app/)
 
-**My Recent GitHub Activity**
+<details>
+  <summary>My Recent GitHub Activity</summary>
+  
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#1](https://github.com/sandip2224/Node.js-Authentication/issues/1) in [sandip2224/Node.js-Authentication](https://github.com/sandip2224/Node.js-Authentication)
 2. 🎉 Merged PR [#1](https://github.com/sandip2224/myTunes-Music-Website/pull/1) in [sandip2224/myTunes-Music-Website](https://github.com/sandip2224/myTunes-Music-Website)
@@ -70,6 +72,7 @@ Hi, I'm [Sandipan Das](https://sandipan-2224.web.app/), an aspiring **Web Develo
 5. ❌ Closed PR [#4](https://github.com/ComputerScientist-01/ComputerScientist-01/pull/4) in [ComputerScientist-01/ComputerScientist-01](https://github.com/ComputerScientist-01/ComputerScientist-01)
 <!--END_SECTION:activity-->
 
+</details>
 <br/>
 
 | <img src="https://github-readme-stats.vercel.app/api?username=sandip2224&show_icons=true&count_private=true"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandip2224"/> |
