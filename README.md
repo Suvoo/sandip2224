@@ -1,28 +1,31 @@
 <h2 align="center">< Hey there. Welcome!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> /></h2>
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/sandipan0164/">
-    <img align="left" alt="Sandipan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
+    <img alt="Sandipan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a><span>&nbsp;&nbsp;&nbsp;</span>
   <a href="https://twitter.com/sandipan_2224">
-    <img align="left" alt="Sandipan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-  </a>
+    <img alt="Sandipan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a><span>&nbsp;&nbsp;&nbsp;</span>
   <a href="https://sandip2224.medium.com/">
-    <img align="left" alt="Sandipan's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-  </a>
+    <img alt="Sandipan's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+  </a><span>&nbsp;&nbsp;&nbsp;</span>
   <a href="https://www.instagram.com/sandipan_2224/">
-    <img align="left" alt="Sandipan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-  </a>
+    <img alt="Sandipan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a><span>&nbsp;&nbsp;&nbsp;</span>
   <a href="https://www.github.com/sandip2224/">
-    <img align="left" alt="Sandipan's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-  </a>
+    <img alt="Sandipan's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  </a><span>&nbsp;&nbsp;&nbsp;</span>
   <a href="https://www.codechef.com/users/sandipan_2224">
-    <img align="left" alt="Sandipan's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-  </a>
+    <img alt="Sandipan's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+  </a><span>&nbsp;&nbsp;&nbsp;</span>
   <a href="https://codeforces.com/profile/sandipan_2224">
-    <img align="left" alt="Sandipan's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=sandip2224&color=blue&label=Visitors "/>
+    <img alt="Sandipan's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
+  </a><span>&nbsp;&nbsp;&nbsp;</span>
+</p>
+<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sandip2224&color=blue&label=Visitors"/>
 </p>
 <br/>
 
