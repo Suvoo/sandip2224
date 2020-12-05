@@ -28,7 +28,7 @@
 </p>
 <br>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sandip2224&color=blue&label=Visitors"/>
+  <img src="https://gitwar.herokuapp.com/badge?username=sandip2224&label=Visitors&color=blue&style=for-the-badge"/>
 </p>
 <br/>
 
@@ -65,7 +65,7 @@ Hi, I'm [Sandipan Das](https://sandipan-2224.web.app/), an aspiring **Web Develo
 [https://sandipan-2224.web.app/](https://sandipan-2224.web.app/)
 
 <details>
-  <summary>My Recent GitHub Activity</summary>
+  <summary><strong>My Recent GitHub Activity</strong></summary>
   
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#6](https://github.com/sandip2224/Best-Web-Development-Resources/pull/6) in [sandip2224/Best-Web-Development-Resources](https://github.com/sandip2224/Best-Web-Development-Resources)
