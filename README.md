@@ -34,7 +34,7 @@
 
 Hi, I'm [Sandipan Das](https://sandipan-2224.web.app/), an aspiring **Web Developer** 🚀 from West Bengal, India. Currently, I'm a Project Contributor  🙍🏽‍♂️ [@AOS2020](https://aos.sanscript.tech/), Web Developer 🙍🏽‍♂️[@The-Project-Team](https://www.theprojectteam.in/) and a Former WebDev Intern at [@SparksFoundation](https://www.thesparksfoundationsingapore.org/). Besides coding almost on a daily basis, I also enjoy stealing memes😂 and scourging youtube.🔥
 
-<img src="img/Prev.gif" height=360 width=450 align="right"/>  
+<img src="img/Prev11.gif" height=360 width=400 align="right"/>  
 
 
 **About Me** 👨‍🎓 
