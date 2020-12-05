@@ -7,6 +7,9 @@
   <a href="https://twitter.com/sandipan_2224">
     <img alt="Sandipan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a><span>&nbsp;&nbsp;&nbsp;</span>
+  <a href="https://dev.to/sandip2224">
+    <img alt="Sandipan's DEV.TO" width="24px" src="https://simpleicons.org/icons/dev-dot-to.svg" />
+  </a><span>&nbsp;&nbsp;&nbsp;</span>
   <a href="https://sandip2224.medium.com/">
     <img alt="Sandipan's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
   </a><span>&nbsp;&nbsp;&nbsp;</span>
