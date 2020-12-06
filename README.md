@@ -2,28 +2,28 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sandipan0164/">
-    <img alt="Sandipan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img alt="Sandipan's LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a><span>&nbsp;&nbsp;&nbsp;</span>
   <a href="https://twitter.com/sandipan_2224">
-    <img alt="Sandipan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+    <img alt="Sandipan's Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a><span>&nbsp;&nbsp;&nbsp;</span>
   <a href="https://dev.to/sandip2224">
-    <img alt="Sandipan's DEV.TO" width="24px" src="https://simpleicons.org/icons/dev-dot-to.svg" />
+    <img alt="Sandipan's DEV.TO" width="26px" src="https://simpleicons.org/icons/dev-dot-to.svg" />
   </a><span>&nbsp;&nbsp;&nbsp;</span>
   <a href="https://sandip2224.medium.com/">
-    <img alt="Sandipan's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+    <img alt="Sandipan's Medium" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
   </a><span>&nbsp;&nbsp;&nbsp;</span>
   <a href="https://www.instagram.com/sandipan_2224/">
-    <img alt="Sandipan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+    <img alt="Sandipan's Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a><span>&nbsp;&nbsp;&nbsp;</span>
   <a href="https://www.github.com/sandip2224/">
-    <img alt="Sandipan's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+    <img alt="Sandipan's GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a><span>&nbsp;&nbsp;&nbsp;</span>
   <a href="https://www.codechef.com/users/sandipan_2224">
-    <img alt="Sandipan's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+    <img alt="Sandipan's Codechef" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
   </a><span>&nbsp;&nbsp;&nbsp;</span>
   <a href="https://codeforces.com/profile/sandipan_2224">
-    <img alt="Sandipan's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
+    <img alt="Sandipan's Codechef" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
   </a><span>&nbsp;&nbsp;&nbsp;</span>
 </p>
 <br>
@@ -46,18 +46,29 @@ Hi, I'm [Sandipan Das](https://sandipan-2224.web.app/), an aspiring **Web Develo
 **Languages and Tools** 🎨  
 
 <p align="left">
-  <img src="https://simpleicons.org/icons/html5.svg" height="35px" />
-  <img src="https://simpleicons.org/icons/css3.svg" height="35px" />
-  <img src="https://simpleicons.org/icons/javascript.svg" height="35px" />
-  <img src="https://simpleicons.org/icons/bootstrap.svg" height="35px" />
-  <img src="https://simpleicons.org/icons/jquery.svg" height="35px" />
-  <img src="https://simpleicons.org/icons/markdown.svg" height="35px" />
-  <img src="https://simpleicons.org/icons/node-dot-js.svg" height="35px" />
-  <img src="https://simpleicons.org/icons/nodemon.svg" height="35px" />
-  <img src="https://simpleicons.org/icons/c.svg" height="35px" />
-  <img src="https://simpleicons.org/icons/cplusplus.svg" height="35px" />
-  <img src="https://simpleicons.org/icons/python.svg" height="35px" />
-  <img src="https://simpleicons.org/icons/git.svg" height="35px" />
+  <img src="https://simpleicons.org/icons/html5.svg" height="24px" />
+  <span>&nbsp;&nbsp;</span>
+  <img src="https://simpleicons.org/icons/css3.svg" height="24px" />
+  <span>&nbsp;&nbsp;</span>
+  <img src="https://simpleicons.org/icons/javascript.svg" height="24px" />
+  <span>&nbsp;&nbsp;</span>
+  <img src="https://simpleicons.org/icons/bootstrap.svg" height="24px" />
+  <span>&nbsp;&nbsp;</span>
+  <img src="https://simpleicons.org/icons/jquery.svg" height="24px" />
+  <span>&nbsp;&nbsp;</span>
+  <img src="https://simpleicons.org/icons/markdown.svg" height="24px" />
+  <span>&nbsp;&nbsp;</span>
+  <img src="https://simpleicons.org/icons/node-dot-js.svg" height="24px" />
+  <span>&nbsp;&nbsp;</span>
+  <img src="https://simpleicons.org/icons/nodemon.svg" height="24px" />
+  <span>&nbsp;&nbsp;</span>
+  <img src="https://simpleicons.org/icons/c.svg" height="24px" />
+  <span>&nbsp;&nbsp;</span>
+  <img src="https://simpleicons.org/icons/cplusplus.svg" height="24px" />
+  <span>&nbsp;&nbsp;</span>
+  <img src="https://simpleicons.org/icons/python.svg" height="24px" />
+  <span>&nbsp;&nbsp;</span>
+  <img src="https://simpleicons.org/icons/git.svg" height="24px" />
  </p>
 
 **You can find my portfolio website here** :heart:
