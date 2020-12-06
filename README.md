@@ -47,18 +47,20 @@ Hi, I'm [Sandipan Das](https://sandipan-2224.web.app/), an aspiring **Web Develo
 
 **Languages and Tools** 🎨  
 
-<code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
-<code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"></code>
-<code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<p align="left">
+  <img src="https://simpleicons.org/icons/html5.svg" height="35px" />
+  <img src="https://simpleicons.org/icons/css3.svg" height="35px" />
+  <img src="https://simpleicons.org/icons/javascript.svg" height="35px" />
+  <img src="https://simpleicons.org/icons/bootstrap.svg" height="35px" />
+  <img src="https://simpleicons.org/icons/jquery.svg" height="35px" />
+  <img src="https://simpleicons.org/icons/markdown.svg" height="35px" />
+  <img src="https://simpleicons.org/icons/node-dot-js.svg" height="35px" />
+  <img src="https://simpleicons.org/icons/nodemon.svg" height="35px" />
+  <img src="https://simpleicons.org/icons/c.svg" height="35px" />
+  <img src="https://simpleicons.org/icons/cplusplus.svg" height="35px" />
+  <img src="https://simpleicons.org/icons/python.svg" height="35px" />
+  <img src="https://simpleicons.org/icons/git.svg" height="35px" />
+ </p>
 
 **You can find my portfolio website here** :heart:
 
@@ -68,11 +70,11 @@ Hi, I'm [Sandipan Das](https://sandipan-2224.web.app/), an aspiring **Web Develo
   <summary><strong>My Recent GitHub Activity</strong></summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/sandip2224/Portfolio-Custom-Domain/pull/1) in [sandip2224/Portfolio-Custom-Domain](https://github.com/sandip2224/Portfolio-Custom-Domain)
-2. ❗️ Opened issue [#7](https://github.com/sandip2224/Best-Web-Development-Resources/issues/7) in [sandip2224/Best-Web-Development-Resources](https://github.com/sandip2224/Best-Web-Development-Resources)
-3. 🎉 Merged PR [#6](https://github.com/sandip2224/Best-Web-Development-Resources/pull/6) in [sandip2224/Best-Web-Development-Resources](https://github.com/sandip2224/Best-Web-Development-Resources)
-4. ❗️ Opened issue [#1](https://github.com/sandip2224/Node.js-Authentication/issues/1) in [sandip2224/Node.js-Authentication](https://github.com/sandip2224/Node.js-Authentication)
-5. 🎉 Merged PR [#1](https://github.com/sandip2224/myTunes-Music-Website/pull/1) in [sandip2224/myTunes-Music-Website](https://github.com/sandip2224/myTunes-Music-Website)
+1. ❗️ Opened issue [#7](https://github.com/sandip2224/Best-Web-Development-Resources/issues/7) in [sandip2224/Best-Web-Development-Resources](https://github.com/sandip2224/Best-Web-Development-Resources)
+2. 🎉 Merged PR [#6](https://github.com/sandip2224/Best-Web-Development-Resources/pull/6) in [sandip2224/Best-Web-Development-Resources](https://github.com/sandip2224/Best-Web-Development-Resources)
+3. ❗️ Opened issue [#1](https://github.com/sandip2224/Node.js-Authentication/issues/1) in [sandip2224/Node.js-Authentication](https://github.com/sandip2224/Node.js-Authentication)
+4. 🎉 Merged PR [#1](https://github.com/sandip2224/myTunes-Music-Website/pull/1) in [sandip2224/myTunes-Music-Website](https://github.com/sandip2224/myTunes-Music-Website)
+5. 💪 Opened PR [#1](https://github.com/vvHacker007/vvHacker007/pull/1) in [vvHacker007/vvHacker007](https://github.com/vvHacker007/vvHacker007)
 <!--END_SECTION:activity-->
 
 </details>
