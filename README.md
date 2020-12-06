@@ -27,9 +27,7 @@
   </a><span>&nbsp;&nbsp;&nbsp;</span>
 </p>
 <br>
-<p align="center">
-  <img src="https://gitwar.herokuapp.com/badge?username=sandip2224&label=Visitors&color=blue&style=for-the-badge"/>
-</p>
+
 <br/>
 
 Hi, I'm [Sandipan Das](https://sandipan-2224.web.app/), an aspiring **Web Developer** 🚀 from West Bengal, India. Currently, I'm a Project Contributor  🙍🏽‍♂️ [@AOS2020](https://aos.sanscript.tech/), Web Developer 🙍🏽‍♂️[@The-Project-Team](https://www.theprojectteam.in/) and a Former WebDev Intern at [@SparksFoundation](https://www.thesparksfoundationsingapore.org/). Besides coding almost on a daily basis, I also enjoy stealing memes😂 and scourging youtube.🔥
