@@ -79,11 +79,11 @@ Hi, I'm [Sandipan Das](https://sandipan-2224.web.app/), an aspiring **Web Develo
   <summary><strong>My Recent GitHub Activity</strong></summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/Codextream/CGPA_ESTIMATOR/issues/5) in [Codextream/CGPA_ESTIMATOR](https://github.com/Codextream/CGPA_ESTIMATOR)
-2. 🎉 Merged PR [#1](https://github.com/sandip2224/Portfolio-Custom-Domain/pull/1) in [sandip2224/Portfolio-Custom-Domain](https://github.com/sandip2224/Portfolio-Custom-Domain)
-3. ❗️ Opened issue [#7](https://github.com/sandip2224/Best-Web-Development-Resources/issues/7) in [sandip2224/Best-Web-Development-Resources](https://github.com/sandip2224/Best-Web-Development-Resources)
-4. 🎉 Merged PR [#6](https://github.com/sandip2224/Best-Web-Development-Resources/pull/6) in [sandip2224/Best-Web-Development-Resources](https://github.com/sandip2224/Best-Web-Development-Resources)
-5. ❗️ Opened issue [#1](https://github.com/sandip2224/Node.js-Authentication/issues/1) in [sandip2224/Node.js-Authentication](https://github.com/sandip2224/Node.js-Authentication)
+1. 🗣 Commented on [#4](https://github.com/Codextream/CGPA_ESTIMATOR/issues/4) in [Codextream/CGPA_ESTIMATOR](https://github.com/Codextream/CGPA_ESTIMATOR)
+2. 🗣 Commented on [#5](https://github.com/Codextream/CGPA_ESTIMATOR/issues/5) in [Codextream/CGPA_ESTIMATOR](https://github.com/Codextream/CGPA_ESTIMATOR)
+3. 🎉 Merged PR [#1](https://github.com/sandip2224/Portfolio-Custom-Domain/pull/1) in [sandip2224/Portfolio-Custom-Domain](https://github.com/sandip2224/Portfolio-Custom-Domain)
+4. ❗️ Opened issue [#7](https://github.com/sandip2224/Best-Web-Development-Resources/issues/7) in [sandip2224/Best-Web-Development-Resources](https://github.com/sandip2224/Best-Web-Development-Resources)
+5. 🎉 Merged PR [#6](https://github.com/sandip2224/Best-Web-Development-Resources/pull/6) in [sandip2224/Best-Web-Development-Resources](https://github.com/sandip2224/Best-Web-Development-Resources)
 <!--END_SECTION:activity-->
 
 </details>
